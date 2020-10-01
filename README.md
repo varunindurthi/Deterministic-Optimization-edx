@@ -5,3 +5,4 @@ Instructors: Dr. Andy Sun and Dr. Shabbir Ahmed
 **Tools used:** <br />
 Python: `pandas`,`cvxpy`, `numpy` <br />
 
+For detailed syllabus checkout the Syllabus.pdf file
